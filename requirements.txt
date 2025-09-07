@@ -1,6 +1,8 @@
-websocket-client==1.8.0
-requests==2.32.0
-numpy==2.3.2
-Flask==3.0.0
-
-pandas-ta==0.3.14b0
+websocket-client==1.6.1
+numpy==1.24.3
+pandas==2.0.2
+Flask==2.3.2
+requests==2.31.0
+MetaTrader5==5.0.43
+python-dotenv==1.0.0
+gunicorn==21.2.0
